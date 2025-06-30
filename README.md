@@ -1,3 +1,4 @@
-# Global-YouTube-Channel-Analysis-in-Excel
+# Data Analysis on Top YouTube Channels using Excel
 
-A data analysis project exploring global YouTube channel statistics using Microsoft Excel. The analysis includes subscriber counts, video views, earnings, and growth trends with supporting visualizations and rankings.
+Focused data analysis on Comedy YouTube channels to evaluate trends in subscriber growth, video views, and monetization performance
+
